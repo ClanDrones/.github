@@ -28,8 +28,8 @@ Bienvenidos a Clan Drones, una comunidad dedicada a la pasión por los drones y 
 
 - **Enfoque temático**: El chat de WhatsApp está destinado principalmente a temas relacionados con drones. Se permiten conversaciones fuera de tema, pero deben ser ocasionales y respetar el interés general del grupo.
 - **Evitar cadenas y mensajes no relacionados**: No se permite el envío de cadenas, mensajes promocionales no autorizados o contenido no relacionado con la temática del grupo.
--  **Promociones de otros grupos**: No se permite la promoción de otros grupos de redes sociales dentro del chat de WhatsApp. Clan Drones es un espacio exclusivo para compartir y discutir sobre temas relacionados con nuestra comunidad, y las promociones de otros grupos pueden generar distracciones y confusión.
--  **Compra y venta**: No se permite la compra y venta de productos o servicios dentro del chat, excepto en los casos que hayan sido previamente aprobados por los administradores de la comunidad. Esta medida tiene como objetivo mantener el enfoque de la comunidad en el intercambio de conocimientos y experiencias, evitando el uso del grupo para fines comerciales no autorizados.
+- **Promociones de otros grupos**: No se permite la promoción de otros grupos de redes sociales dentro del chat de WhatsApp. Clan Drones es un espacio exclusivo para compartir y discutir sobre temas relacionados con nuestra comunidad, y las promociones de otros grupos pueden generar distracciones y confusión.
+- **Compra y venta**: No se permite la compra y venta de productos o servicios dentro del chat, salvo aquellos que sean contenido exclusivo y oficial de Clan Drones, previamente aprobados por los administradores de la comunidad. Esta medida garantiza que el grupo se mantenga enfocado en su propósito principal, evitando el uso del espacio para fines comerciales no autorizados.
 
 ## 6. Resolución de conflictos
 
