@@ -3,6 +3,8 @@
 Este es el repositorio oficial del Clan Drones internacional
 Si quieres contribuir a este proyecto, crea una cuenta en github y contacta a Cory para solicitar acceso.
 
+Este es nuestro [Código de conducta](https://github.com/ClanDrones/.github/blob/main/cdc.md)
+
 <!--
 
 **Here are some ideas to get you started:**
